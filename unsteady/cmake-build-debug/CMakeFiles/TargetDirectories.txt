@@ -1,0 +1,3 @@
+/home/tkaravasilhs/CLionProjects/unsteady/cmake-build-debug/CMakeFiles/unsteady.dir
+/home/tkaravasilhs/CLionProjects/unsteady/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tkaravasilhs/CLionProjects/unsteady/cmake-build-debug/CMakeFiles/rebuild_cache.dir
