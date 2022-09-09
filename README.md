@@ -6,7 +6,7 @@ This code models a low speed 2D flow around a square cylinder using a finite vol
 - Use of the SIMPLE Algorithm on a staggered grid
 - Valid only for orthogonal mesh
 - Post Processing in Paraview
-- 
+
 The code has been used to also solve simple orthogonal geometries, such as Lid Driven Cavity problems, Channel Flows and Flow over Square cylinder problems. Bibliographical data have been used to validate the results.
 
 [1] Atul Sharma & V. Eswaran (2004): HEAT AND FLUID FLOW ACROSS A SQUARE CYLINDER IN THE TWO-DIMENSIONAL LAMINAR FLOW REGIME, Numerical Heat Transfer, Part A: Applications: An International Journal of Computation and Methodology, 45:3, 247-269.
